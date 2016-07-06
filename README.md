@@ -24,12 +24,12 @@
 <body>
   <div class="nav">
   <h2>
-    "About Me"
+    About Me
   </h2>
-  <p>I am Emily Kronus, I like to eat cotton candy</p>
+<p>Hi, Im Emily!  I am a very positive and outgoing person who has no trouble working on my own or with others.  I welcome a good challenge and will always try my best to complete it; if I do need assistance, I am not afraid to ask.  I am always looking to expand my knowledge and test the bounds of my logic, this is why I find Web Development so fascinating!</p>
   
   <h2>
-    "Skills"
+    Skills
   </h2>  
   <ul>
   <li>Reliable</li>
