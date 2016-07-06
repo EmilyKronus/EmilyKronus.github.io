@@ -18,7 +18,6 @@
   
 
   <head>
-  <title>Emily Kronus</title>
   <meta charset="utf-8"/>
   <link rel="stylesheet" type="text/css" href="main.css">
 </head>
@@ -27,16 +26,19 @@
   <h2>
     "About Me"
   </h2>
-  <p>I am a afunalfaowiejf;alkjdsvlasndvshogfja;fafiaho</p>
+  <p>I am Emily Kronus, I like to eat cotton candy</p>
   
   <h2>
     "Skills"
   </h2>  
   <ul>
-  <li>Cooperative</li>
-  <li>Easy to talk to</li>
-  <li>Energetic and Fun</li>
-  <li>Likes a challenge</li>
+  <li>Reliable</li>
+  <li>Works well with others</li>
+  <li>Productive team member</li>
+  <li>Fast learner</li>
+  <li>Perseverant</li>
+  <li>Self-motivated</li>
+  <li>Energetic and easy-going</li>
   </ul>
   </div>  
   
