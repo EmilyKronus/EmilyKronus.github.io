@@ -8,7 +8,7 @@
   <h3>I will put the pep in your step</h3>
   <ul>
     <li>emilyjkronus@gmail.com</li>
-    <li>651.399.0941</li>
+    <li>651-399-0941</li>
 
 </div>    
 
