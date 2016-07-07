@@ -8,18 +8,22 @@ h3 { font-size: 18px; color: black;
 
 body { font-family: arial; font-size: 14px; color: black;
 
-p { font-family: arial; font-size: 14px; color: black;
-
 .hero {
-  padding: 30px 0;
-  margin: 30px;
+	padding: 250px 0;
+	margin: 30px;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  background-image: url("https://s-media-cache-ak0.pinimg.com/564x/15/da/a9/15daa974581dd39a9c4a8b29c8e6aaf1.jpg");
-  height: 1000px;
-  width: 1000px;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+  background-size: cover;
+  color: #ffffff;
 }
 
+
+p { font-family: arial; font-size: 14px; color: black;
+
+
+
 .hero a {
-  font-size: 1.25em;
-  text-decoration: none;
+	color: #00FFAA;
+	font-size: 1.25em;
+	text-decoration: none;
 }
