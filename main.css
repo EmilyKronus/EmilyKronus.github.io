@@ -15,8 +15,8 @@ p { font-family: arial; font-size: 14px; color: black;
   margin: 30px;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
   background-image: url("https://s-media-cache-ak0.pinimg.com/564x/15/da/a9/15daa974581dd39a9c4a8b29c8e6aaf1.jpg");
-  background-size: cover;
-  color: #ffffff;
+  height: 1000px;
+  width: 1000px;
 }
 
 .hero a {
