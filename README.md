@@ -1,5 +1,7 @@
 # EmilyKronus.github.io
 
+<link rel= "stylesheet" type= "text/css" href= "main.css"
+
 <html>
 
 <div class="main">
