@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html>
-
 <link rel= "stylesheet" type= "text/css" href= "main.css"
-
+<html>
 
 <div class="main">
     
@@ -12,9 +9,9 @@
     <li>emilyjkronus@gmail.com</li>
     <li>651-399-0941</li>
     
-<img
-width="1000" height="1000"
-src="https://s-media-cache-ak0.pinimg.com/564x/15/da/a9/15daa974581dd39a9c4a8b29c8e6aaf1.jpg"/>
+    <img
+    width="1000" height="1000"
+    src="https://s-media-cache-ak0.pinimg.com/564x/15/da/a9/15daa974581dd39a9c4a8b29c8e6aaf1.jpg"/>
 
 </div>    
 
