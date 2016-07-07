@@ -9,3 +9,11 @@ h3 { font-size: 18px; color: black;
 body { font-family: arial; font-size: 14px; color: black;
 
 p { font-family: arial; font-size: 14px; color: black;
+
+.hero { 
+backgroung-image: url('https://s-media-cache-ak0.pinimg.com/564x/15/da/a9/15daa974581dd39a9c4a8b29c8e6aaf1.jpg');
+background-position: center top;
+background-size: cover;
+padding: 250px 0;
+margin: 30px;
+}
