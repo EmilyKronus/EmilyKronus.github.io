@@ -6,7 +6,7 @@ h2 { font-size: 24px; color: black;
 
 h3 { font-size: 18px; color: black;
 
-body { font-family: arial; font-size: 14px; color: black;
+body { font-family: arial; font-size: 14px; color: black; body bgcolor="pink"
 
 .hero {
 	padding: 250px 0;
