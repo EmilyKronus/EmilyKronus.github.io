@@ -1,53 +1,79 @@
-<link rel= "stylesheet" type= "text/css" href= "main.css"
 <html>
+<!DOCTYPE=html>
+</html>
 
+
+
+
+
+<head>
 <div class="main">
-    
-  <h1>Emily Kronus</h1>
-  <h3>I will put the pep in your step</h3>
-  <ul>
-    <li>emilyjkronus@gmail.com</li>
-    <li>651-399-0941</li>
-    
-    <img
-    width="1000" height="1000"
-    src="https://s-media-cache-ak0.pinimg.com/564x/15/da/a9/15daa974581dd39a9c4a8b29c8e6aaf1.jpg"/>
+  <title> Zack's Webpage
+  </title>
 
-</div>    
+  <h1>Zack Koppa</h1>
+  	<h3>Hold up, WE DEM BOYZ!</h3>
+	 <ul>
+	  <li>zkoppa01@hamline.edu</li>
+	   <li>651-387-7636</li>
+</div>	
+
+
+
+
 
 <img 
-width="300" height="300"
-src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/13494877_1101029926631611_5469085872243963462_n.jpg?oh=a4dde1d18ed9eadfb9ae315a8ec2329e&oe=57F0FBB7"/>
-<br>
-<br>  
-<br>
-  
+	width="300" height="300"
+	src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/603075_588582571209685_1211122232_n.jpg?oh=feeb246ba54ed510b30c146174c291fd&oe=5885F1C0"/>
+	<br>
+	<br>  
+	<br>
 
-  <head>
-  <meta charset="utf-8"/>
-  <link rel="stylesheet" type="text/css" href="main.css">
-</head>
+
+
+
+
+
+
+
+
+
+
 <body>
-  <div class="nav">
+<div class="nav">
   <h2>
-    About Me
+  About Me
   </h2>
-<p>Hi, Im Emily!  I am a very positive and outgoing person who has no trouble working on my own or with others.  I welcome a good challenge and will always try my best to complete it; if I do need assistance, I am not afraid to ask.  I am always looking to expand my knowledge and test the bounds of my logic, this is why I find Web Development so fascinating!</p>
+  <p>
+  Heller, my name is Zack
+  </p>
   
-  <h2>
-    Skills
-  </h2>  
-  <ul>
-  <li>Reliable</li>
-  <li>Works well with others</li>
-  <li>Productive team member</li>
-  <li>Fast learner</li>
-  <li>Perseverant</li>
-  <li>Self-motivated</li>
-  <li>Energetic and easy-going</li>
-  </ul>
-  </div>  
-  
-     
-  </body>
-</html>
+   <h2>
+	   Skills
+	 </h2>  
+	 <ul>
+	 <li>Reliable</li>
+	 <li>Works well with others</li>
+	 <li>Productive team member</li>
+	 <li>Fast learner</li>
+	 <li>Perseverant</li>
+	 <li>Self-motivated</li>
+	 <li>Energetic and easy-going</li>
+	 </ul>
+
+</body>
+
+<div>
+
+
+
+
+
+
+
+
+
+</head>
+
+
+Contact GitHub API Training Shop Blog About
